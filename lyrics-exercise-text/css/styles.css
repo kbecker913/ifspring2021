@@ -1,0 +1,30 @@
+#title {
+    text-align: center;
+    color: #b40c49;
+    font-size: 50px;
+    font-family: 'Newsreader', serif;
+    letter-spacing: 20px;
+    line-height: .5em;
+    
+}
+img {
+    width: 15%;
+    height: 15%;
+}
+#subtitle {
+    text-align: center;
+    color: #b40c49;
+    font-size: 24px;
+    font-family: 'Newsreader', serif;
+    line-height: 2em;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    
+}
+body {
+    text-align: center;
+    color: #b1a89f;
+    background-color: #211517;
+    font-family: 'Libre Franklin', sans-serif;
+    letter-spacing: 2px;
+}
