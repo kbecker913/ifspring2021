@@ -1,0 +1,19 @@
+#title {
+    text-align: center;
+    color: #b40c49;
+    font-size: 50px;
+}
+img {
+    width: 15%;
+    height: 15%;
+}
+#subtitle {
+    text-align: center;
+    color: #b40c49;
+    font-size: 24px;
+}
+body {
+    text-align: center;
+    color: #b1a89f;
+    background-color: #211517;
+}

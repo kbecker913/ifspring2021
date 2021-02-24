@@ -1,0 +1,118 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    background: #aae1f7;
+}
+
+body{
+    margin: 5%15%;
+    color: #03455f;
+}
+
+h1{
+    font-weight:bold;
+    font-size: 36pt;
+    line-height: 18pt;
+    text-indent: -60px;
+    
+}
+
+h2{
+    font-weight: bold;
+    font-size: 26pt;
+    line-height: 26pt;
+    text-indent: -30px;
+}
+
+.bheader{
+  font-weight: 600;
+  font-size: 1.6em;
+  line-height: 24pt;
+  
+}
+
+.sheader{
+    font-weight: 500;
+    font-size: 1.5em;
+    line-height: 14pt;
+    text-indent: 30px;
+}
+
+.light{
+    font-weight: 300;
+    font-size: 14pt;
+    text-indent: 30px;
+}
+
+.normal{
+    font-weight: 400;
+    font-size: 14pt;
+    text-indent: 30px;
+}
+
+.black{
+    font-weight: 900;
+    font-size: 14pt;
+    text-indent: 30px;
+}
+
+.normal2{
+    font-weight: 400;
+    font-size: 14pt;
+    font-style: normal;
+    text-indent: 30px;
+}
+
+.italic{
+    font-weight: 400;
+    font-size: 14pt;
+    font-style: italic;
+    text-indent: 30px;
+}
+
+.oneem{
+    font-weight: 400;
+    font-size: 14pt;
+    letter-spacing: 1px;
+    text-indent: 30px;
+}
+
+.threeem{
+    font-weight: 400;
+    font-size: 14pt;
+    letter-spacing: 3px;
+    text-indent: 30px;
+}
+
+.nought2em{
+    font-weight: 400;
+    font-size: 14pt;
+    letter-spacing: -1px;
+    text-indent: 30px;
+}
+
+.capital{
+    font-weight: 400;
+    font-size: 14pt;
+    text-transform: capitalize;
+    text-indent: 30px;
+}
+
+.lower{
+    font-weight: 400;
+    font-size: 14pt;
+    text-transform: lowercase;
+}
+
+.none{
+    font-weight: 400;
+    font-size: 14pt;
+    text-decoration: none;
+    text-indent: 30px;
+}
+
+.under{
+    font-weight: 400;
+    font-size: 14pt;
+    text-decoration: underline;
+    text-indent: 30px;
+}
