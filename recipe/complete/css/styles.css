@@ -1,0 +1,149 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #4f2f3f;
+    color: #4f2f3f;
+}
+
+body{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+    margin-bottom: 0px;
+    width: 960px;
+    background-color: #e7d3e4;
+    margin-top: 0px;
+}
+
+footer{
+    font-size: 10pt;
+    margin-bottom: 0px;
+    padding-bottom: 1rem;
+}
+
+img{
+    max-width: 100%;
+    width: 300px;
+    padding: 0;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border: dashed;
+}
+
+ul{
+    padding: 0;
+    margin-top: 0px;
+    display: flex;
+    flex-wrap: wrap ;
+}
+
+li{
+    display: block;
+    max-width: 50%;
+}
+
+article{
+   width: 250px;
+   max-width: 100%;
+   margin-right: 5rem;
+   margin-left: 1rem;
+   font-size: 12pt;
+}
+
+h2{
+    margin-left: 1rem;
+    margin-bottom: 8px;
+    border-bottom: dashed;
+    margin-right: 1.5rem;
+}
+
+h4{
+    margin-left: 1rem;
+    font-weight: 200;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+div{
+    margin-left: 1.9rem;
+    font-size: 13pt;
+}
+
+h1{
+    margin-left: 1.9rem;
+    margin-bottom: 8px;
+    font-size: 22pt;
+    border-bottom: dashed;
+}
+
+h3{
+    font-size: 16pt;
+    margin-bottom: 5px;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+@media (max-width: 692px){
+    ul{display: block;
+    }
+}
+@media (max-width: 692px){
+    li{max-width: 85%;}
+}
+
+@media (max-width: 692px){
+    body{
+        margin-left: 1rem;
+        max-width: 100%;
+    }
+}
+@media (max-width: 692px){
+    article{
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 692px){
+        h1{
+            margin-left: 0;
+            border: none;
+        }
+    }
+
+@media (max-width: 692px){
+    div{
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 692px){
+    img {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 692px){
+    h2{
+        margin-left: 0;
+        border: none;
+    }
+}
+
+@media (max-width: 692px){
+    h4{
+        margin-left: 0;
+        
+    }
+}
+
+@media (max-width: 692px){
+    html{
+        background-color: #e7d3e4;
+    }
+}
